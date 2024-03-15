@@ -1,7 +1,8 @@
 // hello.cpp
 #include <iostream>
+#include <string>
 
 int main() {
-	std::cout << "Hello, World!" << std::endl;
+	std::cout << "Hello, World!";
 	return 0;
 }
